@@ -1,5 +1,4 @@
 {
-  {
   "name": "keiba-yosou-ai",
   "version": "1.0.0",
   "scripts": {
@@ -12,21 +11,5 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "recharts": "^2.5.0"
-  }
-}
-
-}
-
-    "next": "13.4.0",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "recharts": "^2.5.0",
-    "dependencies": {
-  "next": "13.4.0",
-  "react": "18.2.0",
-  "react-dom": "18.2.0",
-  "recharts": "^2.5.0"
-}
-
   }
 }
